@@ -1,0 +1,7 @@
+START 100
+** MOVER AREG, A
+** ADD BREG, B
+A DC 2
+B DS 5
+C DC 1
+END
